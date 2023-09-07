@@ -1,0 +1,205 @@
+body{
+    background-image: url(images.jpg);
+    background-size: cover;
+    text-align: center;
+    align-content: center;
+    border: 1px solid #392766;
+    margin: 98px 258px 12px;
+    padding: 25px 2px;
+    font-weight: bold;
+    text-transform: capitalize;
+   
+
+}
+.nav{
+   margin: 0px;
+   padding: 5px;
+   text-align: left;
+   position: absolute;
+   top: 0;
+   left: 100%;
+}
+.HOME{
+   margin-right: 76px;
+   color:rgb(78 14 23);
+   right: 522px;
+    position: absolute;
+    text-decoration: none;
+
+}
+.HOME:hover{
+   color: rgb(75 159 255);
+}
+
+
+.content{  
+   text-decoration: none;
+   position: absolute;
+   right: 291px;
+   color: rgb(78 14 23);
+    
+}
+.content:hover{
+   color: rgb(75 159 255);
+}
+.ABOUT{
+   position: absolute;
+   left: 465px;
+   color:rgb(78 14 23);
+   left: 448px;
+   top: 216px;
+   text-decoration: none;
+}
+.ABOUT:hover{
+   color: rgb(75 159 255);
+}
+.link{
+   margin: -42px -114px 63px 15px;
+   color: rgb(73 17 53);
+   text-align: right;
+   position: absolute;
+   top: 489px;
+    right: 400px;
+    text-decoration: none;
+}
+.link:hover{
+   color: rgb(75 159 255); ;
+}
+input#checkbox{
+   position: absolute;
+   right: 548px;
+   bottom: 200px;
+
+}
+.label1{
+   position: absolute;
+   left: 418px;
+    top: 448px;
+
+}
+input#user{
+   position: absolute;
+   right: 359px;
+   top: 382px;
+
+}
+.label2{
+   position: absolute;
+   right: 541px;
+   top: 386px;
+}
+input#pass{
+   position: absolute;
+    left: 429px;
+
+}
+.label3{
+   position: absolute;
+   right: 541px;
+
+}
+input[type="submit"]{
+   position: absolute;
+    top: 489px;
+    left: 450px;
+    width: 100px;
+    font-weight: 900;
+    background: padding-box #233149;
+    cursor: pointer;
+    border: -1px;
+}
+   input#frist{
+      outline-color: #233149;
+      border-radius: 8px;
+      border: 0;
+  
+   }
+   input#last{
+      outline-color: #233149;
+      border-radius: 8px;
+      border: 0;
+  
+   }
+   input#email{
+      outline-color: #233149;
+      border-radius: 8px;
+      border: 0;
+  
+   }
+   input#user{
+      outline-color: #233149;
+      border-radius: 8px;
+      border: 0;
+  
+   }
+   input#pass{
+      outline-color: #233149;
+      border-radius: 8px;
+      border: 0;
+  
+   }
+
+.full{
+    align-items: center;
+    transition: 4s;
+
+}
+.full:hover{
+   color: rgb(75 159 255); ;
+}
+
+
+form{
+    
+    margin: 79px auto;
+    border: 1px ;
+}
+ .play{
+    display: flex;
+    align-items: self-end;
+    margin-right: 10px;
+
+
+ }
+ .email{
+    margin-left: 27px;
+    transition:  3s;
+    transition-delay: 0s;
+ }
+ .email:hover{
+   color: rgb(75 159 255); ;
+ }
+ .miss{
+    margin-left: 27px;
+    transition:  3s;
+    transition-delay: 0s;
+ }
+ .miss:hover{
+   color: rgb(75 159 255); ;
+ }
+ .www{
+    margin-left: 27px;
+    transition:  3s;
+    transition-delay: 0s;
+ }
+ .www:hover{
+   color: rgb(75 159 255); ;
+ }
+ .mmm{
+    margin-left: 27px;
+    transition:  3s;
+    transition-delay: 0s;
+ }
+ .mmm:hover{
+   color: rgb(75 159 255); ;
+ }
+ .pass{
+    margin-left: 27px;
+    transition:  3s;
+    transition-delay: 0s;
+ }
+ .pass:hover{
+    color: rgb(75 159 255); 
+   
+ }
+ 
